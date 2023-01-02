@@ -6,6 +6,6 @@ class Sum{
       int d = 2;
       int c = 6;
       System.out.println(a+b);//summation
-      // ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+      // changes for the division
     
       
